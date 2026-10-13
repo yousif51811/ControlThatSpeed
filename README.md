@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Assets/icon.webp" width="120" alt="Taken from https://modrinth.com/plugin/fly-speed-change">
+  <img src="./Assets/icon.png" width="120" alt="Taken from https://modrinth.com/plugin/fly-speed-change">
 </p>
 
 <h1 align="center">🏃 Control That Speed!</h1>
