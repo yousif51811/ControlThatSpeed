@@ -1,6 +1,18 @@
-# 🏃 Control That Speed!
 
-A lightning-fast PumpkinMC plugin (Get it?) to control different player speed attributes
+<p align="center">
+  <img src="./Assets/icon.webp" width="120" alt="Taken from https://modrinth.com/plugin/fly-speed-change">
+</p>
+
+<h1 align="center">🏃 Control That Speed!</h1>
+
+<a href="https://market.pumpkinmc.org/plugin/Rb4MfId7-pveinminer" title="PumpkinMC: Marketplace">
+  <img src="https://www.freewebtools.com/api/badge/PumpkinMC-Marketplace-fe7d37.svg?style=flat&labelColor=555" alt="PumpkinMC: Marketplace" decoding="async" loading="lazy">
+</a>
+
+A lightning-fast (No pun intended) PumpkinMC plugin to control different player speed attributes
+
+<img src="./Assets/1.gif">
+
 
 ## How to use
 
