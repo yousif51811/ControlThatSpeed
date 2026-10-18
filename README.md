@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="./Assets/icon.png" width="120" alt="Taken from https://modrinth.com/plugin/fly-speed-change">
+  <img src="./Assets/icon.png" width="120">
 </p>
 
 <h1 align="center">🏃 Control That Speed!</h1>
 
-<a href="https://market.pumpkinmc.org/plugin/rGdWTRoO-control-that-speed" title="PumpkinMC: Marketplace">
+<a href="https://market.pumpkinmc.org/plugin/rGdWTRoO-control-that-speed-speedcontrol" title="PumpkinMC: Marketplace">
   <img src="https://www.freewebtools.com/api/badge/PumpkinMC-Marketplace-fe7d37.svg?style=flat&labelColor=555" alt="PumpkinMC: Marketplace" decoding="async" loading="lazy">
 </a>
 
