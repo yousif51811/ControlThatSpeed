@@ -5,7 +5,7 @@ static const char* authors[] = {"Zerorifter"};
 pumpkin_metadata_t get_meta(void) {
     return (pumpkin_metadata_t) {
         .name = "ControlThatSpeed",
-        .version = "0.1.0",
+        .version = "0.1.1",
         .authors = authors,
         .authors_count = sizeof(authors) / sizeof(authors[0]),
         .description = "A speed control plugin",
